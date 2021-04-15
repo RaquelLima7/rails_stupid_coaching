@@ -1,24 +1,7 @@
-# README
+# Stupid Coaching is a web application made with Ruby on Rails 💎 and Bootstrap. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## - Coaching says "Silly question, get dressed and go to work!" when any question is asked and just says "Great!" when it says "I am going to work".
 
-Things you may want to cover:
+<br>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="stupid-coaching.gif" alt="stupid-coaching">
